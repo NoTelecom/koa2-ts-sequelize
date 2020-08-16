@@ -44,10 +44,10 @@ const options = {
 
 ### 逻辑
 
-在routes里写入每个路由，并分发
-在app.ts里把这些路由注册
-在controllers里写入每个action的行为逻辑
-models需要通过sequelize-automate自动生成
-public里放一些公共的东西，目前把下载的文件放在里边
-db文件放置数据库配置
++ 在routes里写入每个路由，并分发
++ 在app.ts里把这些路由注册
++ 在controllers里写入每个action的行为逻辑
++ models需要通过sequelize-automate自动生成
++ public里放一些公共的东西，目前把下载的文件放在里边
++ db文件放置数据库配置
 
