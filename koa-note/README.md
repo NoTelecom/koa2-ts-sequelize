@@ -1,4 +1,6 @@
 
+## 介绍
+一个koa2+ts的初始化项目 使用sequelize作为orm
 
 ## 使用
 
